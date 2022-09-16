@@ -1,6 +1,6 @@
 # Remotely Assistant Workers (RAW)
 
-| WELCOME TO RAW(REMOTELY ASSISTANT WORKERS) |
+| WELCOME TO RAW (REMOTELY ASSISTANT WORKERS) |
 
  ---------------
 | Introduction |
