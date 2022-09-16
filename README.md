@@ -19,7 +19,9 @@ Thank you everyone.
 -------------------
 
  >> Any version of windows operating system which is compatible to run Microsoft Visual Studio.
+ 
  >> Microsoft Visual Studio 2019
+ 
  >> Microsoft SQL Server Management Studio
 
 --------------------------
@@ -39,16 +41,26 @@ Thank you everyone.
 ---------------------------
 
  >> Open SQL Server Management Studio and click on "New Query" option.
+ 
  >> Paste the statement "CREATE DATABASE RAW
                          CREATE DATABASE RAW_MESSENGER" and click on "Execute" option.
+		
  >> Connect to server and copy the server name.
+ 
  >> Open "RAW.sln" in Microsoft Visual Studio.
+ 
  >> Go to "View" and click on "Server Explorer" option or only press "Ctrl+Alt+S".
+ 
  >> Click right button of "Data Connections" and select "Add Connection".
+ 
  >> Paste the server name in the Server Name Box, select database "RAW" from option and press OK. Do the same process for database "RAW_MESSENGER".
+ 
  >> Click right button of the data connection of "RAW" and go to properties or press "Alt+Enter". Copy the connection string.
+ 
  >> Go to "View" and click on "Solution Explorer" option or only press "Ctrl+Alt+L".
+ 
  >> Open "App.config" file and paste the connection string instead of default string of connectionString of "RAW". Do the same process for "RAW_MESSENGER".
+ 
  >> Finally, RAW is ready to Run. Click the run button to get access of "RAW".
 
 
@@ -56,17 +68,17 @@ Thank you everyone.
 | How to use "RAW" |
 --------------------
 
- >> First, make sure your screen size is '100%'.
- >> If you are new to RAW, then at first you have to sign up with proper information.
- >> If you are looking for people to get work done, make sure you have signed up as a "Buyer".
- >> You can get various categories of work by signing up as a "Seller".
- >> For entering email, a valid email is required.
- >> To verify yourself you must enter the OTP after confirming the password.
- >> For mobile number, you have to give a valid mobile number. 
- >> You must fill all the required field.
- >> The generated account no of your account must be noted for further purposes.
- >> After sign up, you have to login first by providing Username and Password, used while signing up.
- >> There are 2 different users: Seller & Buyer.
+	 1. First, make sure your screen size is '100%'.
+	 2. If you are new to RAW, then at first you have to sign up with proper information.
+	 3. If you are looking for people to get work done, make sure you have signed up as a "Buyer".
+	 4. You can get various categories of work by signing up as a "Seller".
+	 5. For entering email, a valid email is required.
+	 6. To verify yourself you must enter the OTP after confirming the password.
+	 7. For mobile number, you have to give a valid mobile number. 
+	 8. You must fill all the required field.
+	 9. The generated account no of your account must be noted for further purposes.
+	 10. After sign up, you have to login first by providing Username and Password, used while signing up.
+	 11. There are 2 different users: Seller & Buyer.
 
    Seller :
 
@@ -148,59 +160,59 @@ From this point onward, the system is going to be introduced here is "Remotely A
 | Project Highlights |
 ----------------------
 
->> Raw's landing page has an attractive and well-structured design and basic options are given here in a simple way.
+> Raw's landing page has an attractive and well-structured design and basic options are given here in a simple way.
 ![LANDING_PAGE!](README_IMAGE/landing_page.png)
 
->> RAW has a organized log in page for both different Users.
-![LOG_IN!](README_IMAGE/log_in.png)
+> RAW has a organized log in page for both different Users.
+![LOG_IN!](README_IMAGE/lod_in.png)
 
->> The User profile is designed with the necessary information that gives brief details of the User.
+> The User profile is designed with the necessary information that gives brief details of the User.
 ![PROFILE!](README_IMAGE/profile.png)
 
->> Other Users' profiles can be searched from the Profile section.
+> Other Users' profiles can be searched from the Profile section.
 ![SEARCH_PROFILE!](README_IMAGE/search_profile.png)
 
->> Jobs must be posted with the required information. To identify different jobs, a unique job id is generated.
+> Jobs must be posted with the required information. To identify different jobs, a unique job id is generated.
 ![POST_JOB!](README_IMAGE/post_job.png)
 
->> After posting a job, the Buyer can modify the job details and view the applicants that applied.
+> After posting a job, the Buyer can modify the job details and view the applicants that applied.
 ![MANAGE_JOB!](README_IMAGE/manage_job.png)
 
->> All types of jobs can be found in Search section. It also shows the number of available jobs. 
-![SEARCH!](README_IMAGE/search.png)
+> All types of jobs can be found in Search section. It also shows the number of available jobs. 
+![SEARCH!](README_IMAGE/searxh.png)
 
->> A RAW account is created for both Users to do the payment criteria. Users can withdraw or deposit money with a single click. 
+> A RAW account is created for both Users to do the payment criteria. Users can withdraw or deposit money with a single click. 
 ![ACCOUNT!](README_IMAGE/account.png)
 
->> All the requested jobs that are pending can be canceled from the Seller's Job Directory.
+> All the requested jobs that are pending can be canceled from the Seller's Job Directory.
 ![CANCEL_REQUEST!](README_IMAGE/cancel_request.png)
 
->> The remaining time of a job is shown in an easy way. The countdown will remind the User of the pending job.
+> The remaining time of a job is shown in an easy way. The countdown will remind the User of the pending job.
 ![JOB_TIMER!](README_IMAGE/job_timer.png)
 
->> Both Users can cancel job after accepting the job offer.
+> Both Users can cancel job after accepting the job offer.
 ![CANCEL_JOB!](README_IMAGE/cancel_job.png)
 
->> The work is submitted by a link that ensures security of the task.
+> The work is submitted by a link that ensures security of the task.
 ![SUBMIT_LINK!](README_IMAGE/submit_link.png)
 
->> Both Users can rate each other to maintain the profile quality.
+> Both Users can rate each other to maintain the profile quality.
 ![RATING!](README_IMAGE/rating.png)
 
->> RAW provides the facility to exchange messages with Users in the system.
+> RAW provides the facility to exchange messages with Users in the system.
 ![MESSAGE!](README_IMAGE/message.png)
 
->> Skills are given with commas so that the system of RAW easily can identify skills. 
+> Skills are given with commas so that the system of RAW easily can identify skills. 
 ![SKILL!](README_IMAGE/skill.png)
 
->> To report User there are problem types given to make easy to identify issue. 
+> To report User there are problem types given to make easy to identify issue. 
 ![REPORT_PROBLEM!](README_IMAGE/report_problem.png)
 
->> There are three options to report User so that the user can give more detail about the report's reason.
+> There are three options to report User so that the user can give more detail about the report's reason.
 ![REPORT!](README_IMAGE/report.png)
 
->> RAW has a unique and designed logo.
-![LOGO!](README_IMAGE/logo.PNG)
+> RAW has a unique and designed logo.
+![LOGO!](README_IMAGE/logo.png)
 
 ********************************************ⒸAll Rights Reserved By "TEAM_RAW"********************************************
 
