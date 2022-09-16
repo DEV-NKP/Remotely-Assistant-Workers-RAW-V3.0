@@ -1,0 +1,1944 @@
+D:\PROJECT\RAW UPDATED\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\RAW UPDATED\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\RAW UPDATED\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\RAW UPDATED\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Form4.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\RAW UPDATED\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 12.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 12.12.2021 (Backup)\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\RAW UPDATED 2\Raw 13.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 14.12.2021-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerEdit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\Raw 15.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Raw 15.12.2021-DS\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 17.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 17.12.2021-KB-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 18.12.2021-now\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\Raw 19.12.2021-KB\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\kb381\Desktop\20.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW_2021\20.12.2021\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW\RAW\bin\Debug\RAW.exe.config
+C:\Users\User\Desktop\RAW\RAW\bin\Debug\RAW.exe
+C:\Users\User\Desktop\RAW\RAW\bin\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.LogIn.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.About.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Contact.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.exe
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.pdb
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.messagebox.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.messenger_name_right.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.msg_left.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.msg_right.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.messageUserSearch.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.messagebox_Seller.resources
+C:\Users\User\Desktop\RAW\RAW\obj\Debug\RAW.messageUserSearch_Seller.resources
+D:\RAW\RAW\bin\Debug\RAW.exe.config
+D:\RAW\RAW\bin\Debug\RAW.exe
+D:\RAW\RAW\bin\Debug\RAW.pdb
+D:\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+D:\RAW\RAW\obj\Debug\RAW.messagebox.resources
+D:\RAW\RAW\obj\Debug\RAW.messagebox_Seller.resources
+D:\RAW\RAW\obj\Debug\RAW.messageUserSearch.resources
+D:\RAW\RAW\obj\Debug\RAW.messageUserSearch_Seller.resources
+D:\RAW\RAW\obj\Debug\RAW.messenger_name_right.resources
+D:\RAW\RAW\obj\Debug\RAW.msg_left.resources
+D:\RAW\RAW\obj\Debug\RAW.msg_right.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+D:\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+D:\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Mail_box.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_Mail_Box.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\RAW\RAW\obj\Debug\RAW.About.resources
+D:\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\RAW\RAW\obj\Debug\RAW.exe
+D:\RAW\RAW\obj\Debug\RAW.pdb
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\bin\Debug\RAW.exe.config
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\bin\Debug\RAW.exe
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\bin\Debug\RAW.pdb
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\bin\Debug\Guna.UI.dll
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.csproj.AssemblyReference.cache
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Applicant_User_Control.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.BuyerSearch_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_UserPortal.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.FeedBack.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp1.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_SignUp2.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Profile.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Search.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job_Details.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Edit_Profile.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Payment.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.messagebox.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.messagebox_Seller.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.messageUserSearch.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.messageUserSearch_Seller.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.messenger_name_right.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.msg_left.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.msg_right.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Submit_page.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.SellerSearchPanel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Edit_Profile.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.View_Applicant.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.SignUp_Successfull.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_cancelJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_JobDirectory_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Account.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Post_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Manage_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Messenger.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Recent_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Submitted_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Previous_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_Cancel_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Cancel_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_account.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Messenger.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_PreviousJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Profile.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Job_Directory.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_RecentJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_SubmittedJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Submitted_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Search.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Recent_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_Previous_Job.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_SignUp2.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_UserPortal.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Starting_Page.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.LogIn.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Report_Account.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Report_Software.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.About.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Contact.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Landing_Page.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Properties.Resources.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Repost_User.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Seller_SignUp1.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.SignUp_Menu.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_SubmittedJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_RecentJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_PreviousJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_CancelJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.Buyer_ManageJob_Panel.resources
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.csproj.GenerateResource.cache
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.csproj.CoreCompileInputs.cache
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.csproj.CopyComplete
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.exe
+D:\PROJECT\Remotely Assistant Workers(RAW)\RAW\RAW\obj\Debug\RAW.pdb

@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33BB73B7-FCB3-4885-9950-A39D13ED9C17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RAW</RootNamespace>
+    <AssemblyName>RAW</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\dipan\Downloads\Compressed\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuyerSearch_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BuyerSearch_Panel.Designer.cs">
+      <DependentUpon>BuyerSearch_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Info.cs" />
+    <Compile Include="FeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedBack.Designer.cs">
+      <DependentUpon>FeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Manage_Job_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Manage_Job_Details.Designer.cs">
+      <DependentUpon>Buyer_Manage_Job_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Edit_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Edit_Profile.Designer.cs">
+      <DependentUpon>Buyer_Edit_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Payment.Designer.cs">
+      <DependentUpon>Buyer_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messagebox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="messagebox.Designer.cs">
+      <DependentUpon>messagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messagebox_Seller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="messagebox_Seller.Designer.cs">
+      <DependentUpon>messagebox_Seller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messageUserSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="messageUserSearch.Designer.cs">
+      <DependentUpon>messageUserSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messageUserSearch_Seller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="messageUserSearch_Seller.Designer.cs">
+      <DependentUpon>messageUserSearch_Seller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messenger_create.cs" />
+    <Compile Include="messenger_create_Seller.cs" />
+    <Compile Include="msg_left.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="msg_left.Designer.cs">
+      <DependentUpon>msg_left.cs</DependentUpon>
+    </Compile>
+    <Compile Include="msg_right.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="msg_right.Designer.cs">
+      <DependentUpon>msg_right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Submit_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Submit_page.Designer.cs">
+      <DependentUpon>Seller_Submit_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Edit_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Edit_Profile.Designer.cs">
+      <DependentUpon>Seller_Edit_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellerSearchPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SellerSearchPanel.Designer.cs">
+      <DependentUpon>SellerSearchPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messenger_name_right.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="messenger_name_right.Designer.cs">
+      <DependentUpon>messenger_name_right.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Applicant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Applicant.Designer.cs">
+      <DependentUpon>View_Applicant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Job_Info.cs" />
+    <Compile Include="Seller_Info.cs" />
+    <Compile Include="SignUp_Successfull.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp_Successfull.Designer.cs">
+      <DependentUpon>SignUp_Successfull.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RAW_Function.cs" />
+    <Compile Include="Buyer_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Account.Designer.cs">
+      <DependentUpon>Buyer_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Post_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Post_Job.Designer.cs">
+      <DependentUpon>Buyer_Post_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Manage_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Manage_Job.Designer.cs">
+      <DependentUpon>Buyer_Manage_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Search.Designer.cs">
+      <DependentUpon>Buyer_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Messenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Messenger.Designer.cs">
+      <DependentUpon>Buyer_Messenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Recent_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Recent_Job.Designer.cs">
+      <DependentUpon>Buyer_Recent_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Submitted_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Submitted_Job.Designer.cs">
+      <DependentUpon>Buyer_Submitted_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Previous_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Previous_Job.Designer.cs">
+      <DependentUpon>Buyer_Previous_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Cancel_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Cancel_Job.Designer.cs">
+      <DependentUpon>Buyer_Cancel_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Cancel_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Cancel_Job.Designer.cs">
+      <DependentUpon>Seller_Cancel_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_account.Designer.cs">
+      <DependentUpon>Seller_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Messenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Messenger.Designer.cs">
+      <DependentUpon>Seller_Messenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Profile.Designer.cs">
+      <DependentUpon>Seller_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Job_Directory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Job_Directory.Designer.cs">
+      <DependentUpon>Seller_Job_Directory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Submitted_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Submitted_Job.Designer.cs">
+      <DependentUpon>Seller_Submitted_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Search.Designer.cs">
+      <DependentUpon>Seller_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Recent_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Recent_Job.Designer.cs">
+      <DependentUpon>Seller_Recent_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_Previous_Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_Previous_Job.Designer.cs">
+      <DependentUpon>Seller_Previous_Job.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_SignUp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_SignUp2.Designer.cs">
+      <DependentUpon>Seller_SignUp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_SignUp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_SignUp1.Designer.cs">
+      <DependentUpon>Buyer_SignUp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_SignUp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_SignUp2.Designer.cs">
+      <DependentUpon>Buyer_SignUp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buyer_Profile.Designer.cs">
+      <DependentUpon>Buyer_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starting_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Starting_Page.Designer.cs">
+      <DependentUpon>Starting_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_SignUp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seller_SignUp1.Designer.cs">
+      <DependentUpon>Seller_SignUp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp_Menu.Designer.cs">
+      <DependentUpon>SignUp_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report_Account.Designer.cs">
+      <DependentUpon>Report_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report_Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report_Software.Designer.cs">
+      <DependentUpon>Report_Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repost_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repost_User.Designer.cs">
+      <DependentUpon>Repost_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Landing_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Landing_Page.Designer.cs">
+      <DependentUpon>Landing_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Buyer_SubmittedJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_SubmittedJob_Panel.Designer.cs">
+      <DependentUpon>Buyer_SubmittedJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_RecentJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_RecentJob_Panel.Designer.cs">
+      <DependentUpon>Buyer_RecentJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_PreviousJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_PreviousJob_Panel.Designer.cs">
+      <DependentUpon>Buyer_PreviousJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_CancelJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_CancelJob_Panel.Designer.cs">
+      <DependentUpon>Buyer_CancelJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_ManageJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_ManageJob_Panel.Designer.cs">
+      <DependentUpon>Buyer_ManageJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_cancelJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_cancelJob_Panel.Designer.cs">
+      <DependentUpon>Seller_cancelJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_PreviousJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_PreviousJob_Panel.Designer.cs">
+      <DependentUpon>Seller_PreviousJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_JobDirectory_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_JobDirectory_Panel.Designer.cs">
+      <DependentUpon>Seller_JobDirectory_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_RecentJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_RecentJob_Panel.Designer.cs">
+      <DependentUpon>Seller_RecentJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_SubmittedJob_Panel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_SubmittedJob_Panel.Designer.cs">
+      <DependentUpon>Seller_SubmittedJob_Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seller_UserPortal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Seller_UserPortal.Designer.cs">
+      <DependentUpon>Seller_UserPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buyer_UserPortal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Buyer_UserPortal.Designer.cs">
+      <DependentUpon>Buyer_UserPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Applicant_User_Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Applicant_User_Control.Designer.cs">
+      <DependentUpon>Applicant_User_Control.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Applicant_User_Control.resx">
+      <DependentUpon>Applicant_User_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyerSearch_Panel.resx">
+      <DependentUpon>BuyerSearch_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_UserPortal.resx">
+      <DependentUpon>Buyer_UserPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedBack.resx">
+      <DependentUpon>FeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_SignUp1.resx">
+      <DependentUpon>Buyer_SignUp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_SignUp2.resx">
+      <DependentUpon>Buyer_SignUp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Profile.resx">
+      <DependentUpon>Buyer_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Search.resx">
+      <DependentUpon>Buyer_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Manage_Job_Details.resx">
+      <DependentUpon>Buyer_Manage_Job_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Edit_Profile.resx">
+      <DependentUpon>Buyer_Edit_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Payment.resx">
+      <DependentUpon>Buyer_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messagebox.resx">
+      <DependentUpon>messagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messagebox_Seller.resx">
+      <DependentUpon>messagebox_Seller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messageUserSearch.resx">
+      <DependentUpon>messageUserSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messageUserSearch_Seller.resx">
+      <DependentUpon>messageUserSearch_Seller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messenger_name_right.resx">
+      <DependentUpon>messenger_name_right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="msg_left.resx">
+      <DependentUpon>msg_left.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="msg_right.resx">
+      <DependentUpon>msg_right.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Submit_page.resx">
+      <DependentUpon>Seller_Submit_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellerSearchPanel.resx">
+      <DependentUpon>SellerSearchPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Edit_Profile.resx">
+      <DependentUpon>Seller_Edit_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Applicant.resx">
+      <DependentUpon>View_Applicant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp_Successfull.resx">
+      <DependentUpon>SignUp_Successfull.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_cancelJob_Panel.resx">
+      <DependentUpon>Seller_cancelJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_JobDirectory_Panel.resx">
+      <DependentUpon>Seller_JobDirectory_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Account.resx">
+      <DependentUpon>Buyer_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Post_Job.resx">
+      <DependentUpon>Buyer_Post_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Manage_Job.resx">
+      <DependentUpon>Buyer_Manage_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Messenger.resx">
+      <DependentUpon>Buyer_Messenger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Recent_Job.resx">
+      <DependentUpon>Buyer_Recent_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Submitted_Job.resx">
+      <DependentUpon>Buyer_Submitted_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Previous_Job.resx">
+      <DependentUpon>Buyer_Previous_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_Cancel_Job.resx">
+      <DependentUpon>Buyer_Cancel_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Cancel_Job.resx">
+      <DependentUpon>Seller_Cancel_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_account.resx">
+      <DependentUpon>Seller_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Messenger.resx">
+      <DependentUpon>Seller_Messenger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_PreviousJob_Panel.resx">
+      <DependentUpon>Seller_PreviousJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Profile.resx">
+      <DependentUpon>Seller_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Job_Directory.resx">
+      <DependentUpon>Seller_Job_Directory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_RecentJob_Panel.resx">
+      <DependentUpon>Seller_RecentJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_SubmittedJob_Panel.resx">
+      <DependentUpon>Seller_SubmittedJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Submitted_Job.resx">
+      <DependentUpon>Seller_Submitted_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Search.resx">
+      <DependentUpon>Seller_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Recent_Job.resx">
+      <DependentUpon>Seller_Recent_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_Previous_Job.resx">
+      <DependentUpon>Seller_Previous_Job.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_SignUp2.resx">
+      <DependentUpon>Seller_SignUp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_UserPortal.resx">
+      <DependentUpon>Seller_UserPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starting_Page.resx">
+      <DependentUpon>Starting_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Account.resx">
+      <DependentUpon>Report_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Software.resx">
+      <DependentUpon>Report_Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Landing_Page.resx">
+      <DependentUpon>Landing_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Repost_User.resx">
+      <DependentUpon>Repost_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seller_SignUp1.resx">
+      <DependentUpon>Seller_SignUp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp_Menu.resx">
+      <DependentUpon>SignUp_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_SubmittedJob_Panel.resx">
+      <DependentUpon>Buyer_SubmittedJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_RecentJob_Panel.resx">
+      <DependentUpon>Buyer_RecentJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_PreviousJob_Panel.resx">
+      <DependentUpon>Buyer_PreviousJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_CancelJob_Panel.resx">
+      <DependentUpon>Buyer_CancelJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buyer_ManageJob_Panel.resx">
+      <DependentUpon>Buyer_ManageJob_Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seller_login.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buyer_login.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seller s_signup.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buyer_signup.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETTINGS_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile_background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETTINGS_ICON1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile_background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaushik_credit_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaushik_credit_picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaushik_credit_picture2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Linkedin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Linkedin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success-2-once.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5662181-middle-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RESET_ICON8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMIT_ICON5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_default1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_default2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alex-kotliarskyi-ourQHRTE2IM-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuWorld.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work_red_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raw-main-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unfill-star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yello-star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unfill_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yello_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unfill1_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Addition.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructor_credit_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructor_credit_picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dipanwita_saha_credit_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaushik_credit_picture3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\niloy_paul_credit_picture9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructor_credit_picture2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_gif1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyber-Wallpaper-4k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stylish-glowing-digital-red-lines-banner_1017-23964.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
